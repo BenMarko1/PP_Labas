@@ -1,0 +1,71 @@
+Name: Fire katana damage: 25 id:  1 
+Name: Water katana damage: 20 id:  2 
+Name: Solar katana damage: 30 id:  3 
+Name: Katana of the earth damage: 20 id:  4 
+Please enter id of item for
+ Enter katana id:  Enter katana id: 
+		  Tangiro vs Mydzan
+
+--------------Fighting--------------	 Round 1
+Tangiro -- making--damage -- Mydzan
+Mydzan get 35 damage 
+
+| Name: Mydzan 	 115 HP 
+| Name: Tangiro 	 110  HP 
+
+--------------Fighting--------------	 Round 2
+Mydzan -- making--damage -- Tangiro
+Tangiro get 10 damage 
+
+| Name: Tangiro 	 100 HP 
+| Name: Mydzan 	 115  HP 
+
+--------------Fighting--------------	 Round 3
+Mydzan -- making--damage -- Tangiro
+Tangiro get 18 damage 
+
+| Name: Tangiro 	 82 HP 
+| Name: Mydzan 	 115  HP 
+
+--------------Fighting--------------	 Round 4
+Tangiro -- making--damage -- Mydzan
+Mydzan get 6 damage 
+
+| Name: Mydzan 	 109 HP 
+| Name: Tangiro 	 82  HP 
+
+--------------Fighting--------------	 Round 5
+Tangiro -- making--damage -- Mydzan
+Mydzan get 39 damage 
+
+| Name: Mydzan 	 70 HP 
+| Name: Tangiro 	 82  HP 
+
+--------------Fighting--------------	 Round 6
+Mydzan -- making--damage -- Tangiro
+Tangiro get 46 damage 
+
+| Name: Tangiro 	 36 HP 
+| Name: Mydzan 	 70  HP 
+
+--------------Fighting--------------	 Round 7
+Tangiro -- making--damage -- Mydzan
+Mydzan get 28 damage 
+
+| Name: Mydzan 	 42 HP 
+| Name: Tangiro 	 36  HP 
+
+--------------Fighting--------------	 Round 8
+Mydzan -- making--damage -- Tangiro
+Tangiro get 24 damage 
+
+| Name: Tangiro 	 12 HP 
+| Name: Mydzan 	 42  HP 
+
+--------------Fighting--------------	 Round 9
+Mydzan -- making--damage -- Tangiro
+Tangiro get 28 damage 
+
+| Name: Tangiro 	 0 HP 
+| Name: Mydzan 	 42  HP 
+The winner is Tangiro
